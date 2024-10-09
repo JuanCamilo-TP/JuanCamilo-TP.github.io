@@ -104,8 +104,8 @@ author:
   name             : "JuanCamilo"
   avatar           : "/assets/images/avatar.png"
   bio              : "Aprendiz De <br>HackTheBox"
-  location         : "Colombia"
-  email            : "noexistemiedo77@gmail.com"
+  location         : "Canada"
+  email            : "info@snowscan.io"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,10 +114,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "juancamilo-tp"
+  github           : "slemire"
   gitlab           :
   google_plus      :
-  keybase          : "juancamilo-tp"
+  keybase          : "snowscan"
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
@@ -126,7 +126,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "snowscan"
   vine             :
   weibo            :
   xing             :
